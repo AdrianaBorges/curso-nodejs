@@ -1,2 +1,2 @@
 # curso-nodejs
-Material ref. Curso de Node.js
+Material ref. Curso Node.js do Zero a Maestria.
